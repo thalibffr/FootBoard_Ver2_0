@@ -1,4 +1,4 @@
-Footboard ICHIRO Ver2.0
+# Footboard ICHIRO Ver2.0
 
 New Board Design for Foot Pressure of humanoid robot ICHIRO ITS
 
